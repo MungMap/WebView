@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "mungmap-webview-app",
+    "slug": "mungmap-webview-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/mungmap-icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/intro.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFA871"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/intro.png",
+        "backgroundColor": "#FFA871"
+      },
+      "package": "com.hoisohee.mungmapwebviewapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/webFavicon.png"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "07babf7f-abcf-45ec-843e-53d8b9ebbb4b"
+      }
+    },
+    "owner": "hoisohee"
+  }
+}
