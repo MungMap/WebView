@@ -6,7 +6,7 @@ React-Native, Expo, TypeScript
 
 
 ## 앱 다운로드
->  [댕댕여지도 apk 다운로드 후 설치]([https://mung-map.netlify.app/](https://expo.dev/artifacts/eas/uk8p3tEkCuXBYT2ALbLetL.apk))
+>  [댕댕여지도 apk 다운로드 후 설치](https://expo.dev/artifacts/eas/uk8p3tEkCuXBYT2ALbLetL.apk)
 
 ## 프로젝트 실행
 
